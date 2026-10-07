@@ -1,0 +1,28 @@
+body {
+    background-image: url(Background.png);
+}
+
+button {
+    height: 40px;
+    width: 300px;
+
+    border-radius: 10px;
+
+    background-color: white;
+}
+
+img {
+    height: 20vh;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
